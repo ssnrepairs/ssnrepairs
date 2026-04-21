@@ -4,7 +4,7 @@ import { BUSINESS_INFO, formatHours } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Contact SSN Repairs Jamaica NY | Electronics Repair Shop (718) 206-0100',
-  description: 'Contact SSN Repairs Jamaica, NY phone & laptop repair shop. 8316 Parsons Blvd near E/F Parsons Blvd station. Free diagnostics, 90-day warranty. Call (718) 206-0100.',
+  description: 'Contact SSN Repairs Jamaica, NY phone & laptop repair shop. 8316 Parsons Blvd near E/F Parsons Blvd station. Free diagnostics, 30-day warranty. Call (718) 206-0100.',
 };
 
 export default function ContactPage() {
@@ -19,7 +19,7 @@ export default function ContactPage() {
     },
     {
       question: 'Do you offer a warranty on repairs?',
-      answer: 'Yes, we provide a 90-day warranty on all parts and labor. If the same issue reoccurs within this period, we will fix it at no additional cost.',
+      answer: 'Yes, we provide a 30-day warranty on all parts and labor. If the same issue reoccurs within this period, we will fix it at no additional cost.',
     },
     {
       question: 'What payment methods do you accept?',

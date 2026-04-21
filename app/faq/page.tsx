@@ -26,7 +26,7 @@ const expandedFAQs = [
   },
   {
     question: 'Do you offer a warranty on repairs?',
-    answer: 'Yes, we provide a 90-day warranty on all parts and labor. If the same issue reoccurs within this period due to our workmanship or parts, we will fix it at no additional cost.',
+    answer: 'Yes, we provide a 30-day warranty on all parts and labor. If the same issue reoccurs within this period due to our workmanship or parts, we will fix it at no additional cost.',
   },
   {
     question: 'What payment methods do you accept?',

@@ -94,7 +94,7 @@ export default function JamaicaQueensRepairPage() {
                     <svg className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    <span><strong>90-Day Warranty</strong> - Peace of mind on all repairs</span>
+                    <span><strong>30-Day Warranty</strong> - Peace of mind on all repairs</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <svg className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -4,7 +4,7 @@ import { BUSINESS_INFO } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Electronics Repair Services Jamaica, NY — Smartphones, Computers & Consoles | SSN Repairs',
-  description: 'Expert iPhone screen repair, Samsung battery replacement, laptop diagnostics, game console fixes in Jamaica, NY. 90-day warranty, same-day service from $49. Call (718) 206-0100.',
+  description: 'Expert iPhone screen repair, Samsung battery replacement, laptop diagnostics, game console fixes in Jamaica, NY. 30-day warranty, same-day service from $49. Call (718) 206-0100.',
 };
 
 export default function ServicesPage() {
@@ -42,7 +42,7 @@ export default function ServicesPage() {
                     <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    <span>90-day warranty included</span>
+                    <span>30-day warranty included</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
