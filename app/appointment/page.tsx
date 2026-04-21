@@ -1,8 +1,14 @@
 'use client';
 
+import type { Metadata } from 'next';
 import { useState } from 'react';
 import Link from 'next/link';
 import { BUSINESS_INFO, formatHours } from '@/lib/constants';
+
+export const metadata: Metadata = {
+  title: 'Book Repair Appointment | SSN Repairs Jamaica Queens NY',
+  description: 'Book same-day electronics repair appointment at SSN Repairs in Jamaica, NY. iPhone, laptop, Samsung fixes. Free diagnosis, 90-day warranty. (718) 206-0100.',
+};
 
 export default function AppointmentPage() {
   const [formData, setFormData] = useState({

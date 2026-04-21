@@ -4,8 +4,8 @@ import JsonLd from '@/components/json-ld';
 import { BUSINESS_INFO, getLocalBusinessSchema, getFAQSchema } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Electronics Repair in Jamaica Queens, NY | SSN Repairs - Parsons Blvd',
-  description: `Professional electronics repair shop in Jamaica Queens, NY at ${BUSINESS_INFO.address.street}. iPhone, Samsung, laptop, game console repairs. E/F train to Parsons Blvd station. 90-day warranty.`,
+  title: 'Jamaica Queens Electronics Repair | Phone Laptop Fixes SSN Repairs',
+  description: 'Top-rated electronics repair in Jamaica Queens NY at 8316 Parsons Blvd. iPhone Samsung laptop game console service near E/F Parsons Blvd. 90-day warranty (718) 206-0100.',
   keywords: [
     'electronics repair Jamaica Queens',
     'Jamaica Queens NY repair shop',

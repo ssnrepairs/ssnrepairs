@@ -1,5 +1,11 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { BUSINESS_INFO, formatHours } from '@/lib/constants';
+
+export const metadata: Metadata = {
+  title: 'Phone & Laptop Repair Jamaica, NY | SSN Repairs — (718) 206-0100',
+  description: 'iPhone, Samsung & laptop repair in Jamaica, NY. Same-day screen replacement, battery & HDMI fixes from $49. Free diagnosis — call (718) 206-0100. 90-day warranty.',
+};
 
 export default function HomePage() {
   const todayHours = BUSINESS_INFO.hours.find(

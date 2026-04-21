@@ -16,15 +16,15 @@ Expert electronics repair services located at **8316 Parsons Blvd, Jamaica, Quee
 
 🚇 **Subway**: E or F train to Parsons Blvd station (1 block away)
 
-📞 **(718) 555-0123**
+📞 **(718) 206-0100**
 
 ## Business Hours
 
 | Day | Hours |
 |-----|-------|
 | Monday - Friday | 9:00 AM - 7:00 PM |
-| Saturday | 10:00 AM - 5:00 PM |
-| Sunday | 11:00 AM - 4:00 PM |
+| Saturday | 10:00 AM - 6:00 PM |
+| Sunday | 12:00 PM - 5:00 PM |
 
 ## Areas Served
 

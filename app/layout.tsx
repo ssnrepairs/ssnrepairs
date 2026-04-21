@@ -4,8 +4,11 @@ import Header from '@/components/header';
 import TopInfoBar from '@/components/top-info-bar';
 import Footer from '@/components/footer';
 import JsonLd from '@/components/json-ld';
+import type { Metadata } from 'next';
 import { SITE_CONFIG, generateMetaDescription } from '@/lib/utils';
 import { BUSINESS_INFO } from '@/lib/constants';
+
+export const metadata: Metadata = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.siteUrl),

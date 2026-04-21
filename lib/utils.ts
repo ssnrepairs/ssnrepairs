@@ -17,7 +17,7 @@ export const SITE_CONFIG = {
   titleTemplate: '%s | SSN Repairs - Jamaica, Queens',
   defaultTitle: 'SSN Repairs - Expert Electronics Repair in Jamaica, Queens, NY',
   defaultDescription: 'Professional electronics repair services in Jamaica, Queens, NY. iPhone, Samsung, laptop, game console, and tablet repairs. Fast service, quality parts. Located at 8316 Parsons Blvd.',
-  siteUrl: 'https://ssnrepairs.com',
+  siteUrl: 'https://www.ssnrepairs.com',
   ogImage: '/og-image.png',
   locale: 'en_US',
 } as const;

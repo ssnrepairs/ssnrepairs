@@ -3,8 +3,8 @@ import Link from 'next/link';
 import { BUSINESS_INFO, formatHours } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Contact Us',
-  description: `Contact SSN Repairs in Jamaica, Queens, NY. Visit us at ${BUSINESS_INFO.address.full} or call ${BUSINESS_INFO.phone}. E/F train to Parsons Blvd station.`,
+  title: 'Contact SSN Repairs Jamaica NY | Electronics Repair Shop (718) 206-0100',
+  description: 'Contact SSN Repairs Jamaica, NY phone & laptop repair shop. 8316 Parsons Blvd near E/F Parsons Blvd station. Free diagnostics, 90-day warranty. Call (718) 206-0100.',
 };
 
 export default function ContactPage() {
