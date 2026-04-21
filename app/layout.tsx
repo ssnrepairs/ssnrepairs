@@ -9,8 +9,6 @@ import { SITE_CONFIG, generateMetaDescription } from '@/lib/utils';
 import { BUSINESS_INFO } from '@/lib/constants';
 
 export const metadata: Metadata = {
-
-export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.siteUrl),
   title: {
     default: SITE_CONFIG.defaultTitle,
