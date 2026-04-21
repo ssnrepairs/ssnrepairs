@@ -1,16 +1,39 @@
-## Hi there 👋
+# SSN Repairs - Electronics Repair in Jamaica, Queens, NY
 
-<!--
-**ssnrepairs/ssnrepairs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expert electronics repair services located at **8316 Parsons Blvd, Jamaica, Queens, NY 11432**.
 
-Here are some ideas to get you started:
+## Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- iPhone Repair
+- Samsung Repair
+- Laptop Repair
+- Game Console Repair
+- Tablet Repair
+
+## Location
+
+📍 **8316 Parsons Blvd, Jamaica, NY 11432**
+
+🚇 **Subway**: E or F train to Parsons Blvd station (1 block away)
+
+📞 **(718) 555-0123**
+
+## Business Hours
+
+| Day | Hours |
+|-----|-------|
+| Monday - Friday | 9:00 AM - 7:00 PM |
+| Saturday | 10:00 AM - 5:00 PM |
+| Sunday | 11:00 AM - 4:00 PM |
+
+## Areas Served
+
+Jamaica, Queens, Briarwood, Hillcrest, Kew Gardens, Richmond Hill, South Ozone Park, Woodhaven
+
+## Features
+
+- Same-day repairs
+- 90-day warranty
+- Quality parts
+- Expert technicians
+- Fair pricing
