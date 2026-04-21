@@ -23,7 +23,7 @@ Expert electronics repair services located at **8316 Parsons Blvd, Jamaica, Quee
 | Day | Hours |
 |-----|-------|
 | Monday - Friday | 9:00 AM - 7:00 PM |
-| Saturday | 10:00 AM - 6:00 PM |
+| Saturday | 11:00 AM - 7:00 PM |
 | Sunday | 12:00 PM - 5:00 PM |
 
 ## Areas Served
@@ -33,7 +33,7 @@ Jamaica, Queens, Briarwood, Hillcrest, Kew Gardens, Richmond Hill, South Ozone P
 ## Features
 
 - Same-day repairs
-- 90-day warranty
+- 30-day warranty
 - Quality parts
 - Expert technicians
 - Fair pricing

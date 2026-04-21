@@ -23,7 +23,7 @@ export const BUSINESS_INFO = {
     { day: 'Wednesday', open: '09:00', close: '19:00', closed: false },
     { day: 'Thursday', open: '09:00', close: '19:00', closed: false },
     { day: 'Friday', open: '09:00', close: '19:00', closed: false },
-    { day: 'Saturday', open: '10:00', close: '18:00', closed: false },
+    { day: 'Saturday', open: '11:00', close: '19:00', closed: false },
     { day: 'Sunday', open: '12:00', close: '17:00', closed: false },
   ] as const,
   social: {
@@ -156,7 +156,7 @@ export function getFAQSchema() {
     },
     {
       question: 'Do you offer a warranty on repairs?',
-      answer: 'Yes, we provide a 90-day warranty on all parts and labor. If the same issue reoccurs within this period, we will fix it at no additional cost.',
+      answer: 'Yes, we provide a 30-day warranty on all parts and labor. If the same issue reoccurs within this period, we will fix it at no additional cost.',
     },
     {
       question: 'What payment methods do you accept?',
