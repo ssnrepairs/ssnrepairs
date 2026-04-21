@@ -2,8 +2,8 @@ export const BUSINESS_INFO = {
   name: 'SSN Repairs',
   legalName: 'SSN Repairs Electronics Service Center',
   description: 'Expert electronics repair services in Jamaica, Queens, NY. Specializing in iPhone, Samsung, laptop, game console, and tablet repairs. Fast service, quality parts, and affordable prices.',
-  url: 'https://ssnrepairs.com',
-  phone: '(718) 555-0123',
+  url: 'https://www.ssnrepairs.com',
+  phone: '(718) 206-0100',
   email: 'info@ssnrepairs.com',
   address: {
     street: '8316 Parsons Blvd',
@@ -23,8 +23,8 @@ export const BUSINESS_INFO = {
     { day: 'Wednesday', open: '09:00', close: '19:00', closed: false },
     { day: 'Thursday', open: '09:00', close: '19:00', closed: false },
     { day: 'Friday', open: '09:00', close: '19:00', closed: false },
-    { day: 'Saturday', open: '10:00', close: '17:00', closed: false },
-    { day: 'Sunday', open: '11:00', close: '16:00', closed: false },
+    { day: 'Saturday', open: '10:00', close: '18:00', closed: false },
+    { day: 'Sunday', open: '12:00', close: '17:00', closed: false },
   ] as const,
   social: {
     facebook: 'https://facebook.com/ssnrepairs',
@@ -100,7 +100,7 @@ export function isOpenNow(): boolean {
 export function getLocalBusinessSchema() {
   const schema = {
     '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
+    '@type': ['LocalBusiness', 'RepairService'],
     '@id': `${BUSINESS_INFO.url}#business`,
     name: BUSINESS_INFO.name,
     description: BUSINESS_INFO.description,
@@ -120,6 +120,7 @@ export function getLocalBusinessSchema() {
       latitude: BUSINESS_INFO.geo.latitude,
       longitude: BUSINESS_INFO.geo.longitude,
     },
+    serviceType: BUSINESS_INFO.services.map((service: any) => service.name),
     openingHoursSpecification: BUSINESS_INFO.hours
       .filter(h => !h.closed)
       .map(h => ({

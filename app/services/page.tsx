@@ -3,8 +3,8 @@ import Link from 'next/link';
 import { BUSINESS_INFO } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Our Services',
-  description: `Professional electronics repair services in Jamaica, Queens, NY. iPhone, Samsung, laptop, game console, and tablet repairs. ${BUSINESS_INFO.address.street} location.`,
+  title: 'Electronics Repair Services Jamaica, NY — Smartphones, Computers & Consoles | SSN Repairs',
+  description: 'Expert iPhone screen repair, Samsung battery replacement, laptop diagnostics, game console fixes in Jamaica, NY. 90-day warranty, same-day service from $49. Call (718) 206-0100.',
 };
 
 export default function ServicesPage() {
